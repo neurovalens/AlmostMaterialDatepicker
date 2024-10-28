@@ -3,7 +3,7 @@ package com.shagi.example
 import android.os.Bundle
 import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
-import com.shagi.example.databinding.ActivityMainBinding
+import com.shagi.materialdatepicker.databinding.ActivityMainBinding
 import com.shagi.materialdatepicker.date.DatePickerFragmentDialog
 import java.text.SimpleDateFormat
 import java.util.*

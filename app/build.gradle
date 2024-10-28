@@ -22,7 +22,7 @@ android {
         viewBinding true
     }
     kotlin { jvmToolchain(17) }
-    namespace 'com.shagi.example'
+    namespace 'com.shagi.materialdatepicker'
 }
 
 dependencies {
